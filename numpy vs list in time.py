@@ -7,3 +7,5 @@ pylist = list(range(1000000))
 %time for item in range(10): arr = arr * 3 # for numpy
 
 # numpy wall time is less than list wall time
+
+print(type(arr))
