@@ -233,7 +233,7 @@ x_train , x_test , y_train , y_test = train_test_split(x , y , test_size= 0.2 , 
 # In[31]:
 
 
-# X_train,X_val,y_train,y_val=train_test_split(X,y,stratify=y,test_size=0.25)
+
 
 
 # ## vectorization
