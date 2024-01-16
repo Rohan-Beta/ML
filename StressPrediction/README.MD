@@ -7,9 +7,3 @@ Info:
 First model predict confidence based on label and social_timestamp
 
 Second model predict the whether a person is stressed or not based on the input text
-
-Fix:
-
-(kindly contribute to fix this issue)
-
-cannot take the label and social_timestamp based on user text
